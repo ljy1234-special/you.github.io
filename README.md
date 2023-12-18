@@ -1,1 +1,4 @@
 resnet做模型迁移，进行猫狗分类
+
+1.下载数据集dogs-vs-cats-redux-kernels-edition，下载链接https://storage.googleapis.com/kaggle-competitions-data/kaggle-v2/5441/38425/bundle/archive.zip?GoogleAccessId=web-data@kaggle-161607.iam.gserviceaccount.com&Expires=1702980119&Signature=RZGpNpLcQcnhI0iKBwhC%2BfNS70osq%2FP%2BEf1DLiTra9O20nwbYAExDQI%2Fos2%2BVGiwfAgsyNTl1wdjDlRVDN9OhzDRnJyPdGe%2FYKvdAvSP%2Fg2HTjJWWfTKX9OifwR6UvBra67ElOMK5U2Q0R0TWcSsKDBzPwHptlTEMKtoNw4JnMQFRysHLCavDLKQDCr%2B2xhrT6ZSrK3fNDn1602LGx%2BaY5wcTxVO6tAGueGJbVKNhmdTdU6GZqAlAbOOp7bPZODOg64jQpmnYaPsc9bJ1XXNpI4ESPVJCfE3zejNHEVPP2mLwuOpvHfXrNJDZLVjJKTn69bcwt12hRcRAJv91xWAuA%3D%3D&response-content-disposition=attachment%3B+filename%3Ddogs-vs-cats-redux-kernels-edition.zip
+2.解压后得到train和test文件夹，代表训练集和测试集。
